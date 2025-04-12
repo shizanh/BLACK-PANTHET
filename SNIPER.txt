@@ -1,4 +1,4 @@
 SHIZAN,
 Shagor,
 a,
-s,
+S,
